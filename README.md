@@ -2,7 +2,7 @@
 
 Meu primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura.
 
-![image](https://github.com/lfiusa/portfolio/assets/142631493/2a2578cc-4a75-4e71-b058-97efc2ced5cf)
+![image](https://github.com/lfiusa/portfolio/assets/142631493/a06b2e69-df6a-4f51-bed3-3712479198f9)
 
 
 ## Ferramentas utilizadas:
